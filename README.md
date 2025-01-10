@@ -1,7 +1,7 @@
 # Huffman Coding Project
 
 ## Introduction
-This project demonstrates the use of Huffman coding, an efficient data compression technique, to analyze and compress the text of the English short story *To Build A Fire* by Jack London. The implementation calculates character frequencies, probabilities, entropy, and Huffman codes, while comparing the results with fixed-length ASCII encoding.
+This project demonstrates the use of Huffman coding, an efficient data compression technique, to analyze and compress the text of the English short story *To Build A Fire by Jack London*. The implementation calculates character frequencies, probabilities, entropy, and Huffman codes, while comparing the results with fixed-length ASCII encoding.
 
 ## Features
 - Calculates character frequencies and probabilities from the given text.
