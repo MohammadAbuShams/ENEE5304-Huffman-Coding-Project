@@ -27,3 +27,8 @@ This project demonstrates the use of Huffman coding, an efficient data compressi
    ```bash
    git clone https://github.com/yourusername/huffman-coding-project.git
    cd huffman-coding-project
+
+## Contributors
+
+- [Mohammad AbuShams](https://github.com/MohammadAbuShams)
+- [Joud Hijaz](https://github.com/JoudHijaz)
